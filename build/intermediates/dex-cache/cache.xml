@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="C:\Users\Danny\AndroidStudioProjects\RussianDictionary\app\build\intermediates\pre-dexed\release\support-annotations-20.0.0_9ade5ec4e43d9f0dedde29f0e205b2f48594e1c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Danny\AndroidStudioProjects\RussianDictionary\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="C:\Users\Danny\AndroidStudioProjects\RussianDictionary\app\build\intermediates\pre-dexed\release\internal_impl-20.0.0_ce66a6c380f1db8ac7e27391d22b0873f72b8821.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danny\AndroidStudioProjects\RussianDictionary\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="C:\Users\Danny\AndroidStudioProjects\RussianDictionary\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-20.0.0_f5371743b8b122844b721834a78793793a5f31bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="C:\Users\Danny\AndroidStudioProjects\RussianDictionary\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-20.0.0_9ade5ec4e43d9f0dedde29f0e205b2f48594e1c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danny\AndroidStudioProjects\RussianDictionary\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.0.0"
+        sha1="f26e8ee0c099dc576330e09ddb835dd05eab60a5">
+        <dex dex="C:\Users\Danny\AndroidStudioProjects\RussianDictionary\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_a2ada840a6163340dd4ba13588f18b270677cb84\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danny\AndroidStudioProjects\RussianDictionary\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\20.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.0.0"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="C:\Users\Danny\AndroidStudioProjects\RussianDictionary\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-20.0.0_acf421f6cf476e766e747333fea6b6fbb75f31e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Danny\AndroidStudioProjects\RussianDictionary\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="C:\Users\Danny\AndroidStudioProjects\RussianDictionary\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-20.0.0_f5371743b8b122844b721834a78793793a5f31bf.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danny\AndroidStudioProjects\RussianDictionary\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\libs\internal_impl-20.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="C:\Users\Danny\AndroidStudioProjects\RussianDictionary\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-20.0.0_ce66a6c380f1db8ac7e27391d22b0873f72b8821\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danny\AndroidStudioProjects\RussianDictionary\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.1.71\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.0.0"
+        sha1="0f6d5c1ef2e982c3b7858408e3df389cf5d202da">
+        <dex dex="C:\Users\Danny\AndroidStudioProjects\RussianDictionary\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-6.1.71_d38598cf005d202eda49641ee1c68ff0bf80877e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danny\AndroidStudioProjects\RussianDictionary\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.0.0"
+        sha1="1464df653420b9a8e00421ed84121ccef4ed07c7">
+        <dex dex="C:\Users\Danny\AndroidStudioProjects\RussianDictionary\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_1ea4bbfcb2a2997264c02ca677de846961f83e62\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Danny\AndroidStudioProjects\RussianDictionary\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.1.71\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.0"
+        sha1="0f6d5c1ef2e982c3b7858408e3df389cf5d202da">
+        <dex dex="C:\Users\Danny\AndroidStudioProjects\RussianDictionary\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-6.1.71_d38598cf005d202eda49641ee1c68ff0bf80877e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Danny\AndroidStudioProjects\RussianDictionary\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\20.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.0"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="C:\Users\Danny\AndroidStudioProjects\RussianDictionary\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-20.0.0_acf421f6cf476e766e747333fea6b6fbb75f31e7.jar" />
+    </item>
+
+</items>
